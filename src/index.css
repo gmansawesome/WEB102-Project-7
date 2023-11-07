@@ -1,0 +1,33 @@
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
+
+
+.Black {
+    background-color: rgb(64, 64, 64);
+    color:white;
+}
+.Blue {
+    background-color: blue;
+    color:white;
+}
+.Green {
+    background-color: green;
+    color:white;
+}
+.Orange {
+    background-color: orange;
+}
+.Pink {
+    background-color: pink;
+}
+.Red {
+    background-color: red;
+}
+.White {
+    background-color: white;
+}
+.Yellow {
+    background-color: yellow;
+}
